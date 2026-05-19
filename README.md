@@ -39,7 +39,7 @@ Beyond code, I spent my university years leading three largest tech communities 
 - 🌐 Strong full-stack background — **Laravel**, **Django**, **REST APIs**
 - 🏛️ **Ex-Chair** @ IEEE SSUET (2025) & ACM SSUET (2024)
 - 🌱 Former **GDGoC SSUET Lead** (2023) — Google Developer Groups
-- 💼 **Open to work** — Full Stack, AI/ML, and hybrid engineering roles
+- 💼 **Open to work** — Full Stack, AI/ML, and Hybrid Engineering roles
 - 📍 Based in **Karachi, Pakistan 🇵🇰**
 
 ---
@@ -48,14 +48,14 @@ Beyond code, I spent my university years leading three largest tech communities 
 
 ```python
 laiba = {
-    "status"         : "Fresh Graduate 🎓 | Open to Work ✨",
-    "track"          : "AI Engineering — LLMs, RAG, NLP, Agentic AI 🤖",
-    "foundation"     : "Full Stack Development — Laravel, Django, REST APIs 🌐",
+    "status"         : ["Fresh Graduate 🎓 | Open to Work ✨"],
+    "track"          : ["AI Engineering — LLMs, RAG, NLP, Agentic AI 🤖"],
+    "foundation"     : ["Full Stack Development — Laravel, Django, REST APIs 🌐"],
     "open_to"        : ["AI/ML Roles", "Full Stack Roles", "Hybrid Eng Roles", "Freelance"],
     "communities"    : ["Ex-Chair IEEE SSUET 🏛️", "Ex-Chair ACM SSUET 💻", "Ex-Lead GDGoC SSUET 🌐"],
-    "building"       : "Intelligent, scalable systems that solve real problems 🛠️",
-    "goal"           : "Make an impact at the intersection of AI and great engineering 🌍",
-    "fun_fact"       : "Led 500+ students across IEEE, ACM & GDG — now building the things I used to teach 🌸"
+    "building"       : ["Intelligent, scalable systems that solve real problems 🛠️"],
+    "goal"           : ["Make an impact at the intersection of AI and great engineering 🌍"],
+    "fun_fact"       : ["Led 500+ students across IEEE, ACM & GDG — now building the things I used to teach 🌸"]
 }
 ```
 
