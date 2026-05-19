@@ -66,9 +66,9 @@ laiba = {
 - **AI & Machine Learning:** Supervised/Unsupervised Learning, NLP, Deep Learning, GenAI, LLMs, RAG Pipelines and Agentic AI Systems
 - **Full Stack Development:** Laravel, Django, REST APIs, Responsive UI/UX
 - **Languages & Frameworks:** Python, JavaScript, Django, Laravel React, Node.js, Express
-- **Data & Databases:** MongoDB, MySQL, Qdrant, Pandas, NumPy, data analysis & visualization
-- **Dev Practices:** Git workflows, agile collaboration, clean code, API integration
-- **Leadership & Soft Skills:** Community building, event management, public speaking, mentorship, team coordination
+- **Data & Databases:** MongoDB, MySQL, Qdrant, Pandas, NumPy, Data Analysis & Visualization
+- **Dev Practices:** Git Workflows, Agile Collaboration, Clean Code, API Integration
+- **Leadership & Soft Skills:** Community Building, Event Management, Public Speaking, Mentorship, Team Coordination
 
 ---
 
@@ -143,11 +143,8 @@ Alongside my academic journey, I've been an **active leader and community builde
   - Organized Gemini Unleashed, Cloud Seekho, Google I/O Extended, DevFest and several webinars
   - Mentored students transitioning into tech from non-CS backgrounds
 
-- **Content Lead** — IEEE SSUET Student Branch `2023`
-  - Managed digital presence, technical content, and community communications for a 200+ member branch
-
 - **Chairperson** — ACM SSUET Student Chapter `2024`
-  - Led and established the new international chapter through its most active year — hackathons, coding bootcamps, and inter-university competitions
+  - Led and established the new international chapter through its most active year — tech events, coding bootcamps, and inter-university competitions
   - Grew chapter membership and established industry speaker connections
 
 - **Chairperson** — IEEE SSUET Student Branch `2025`
@@ -162,9 +159,9 @@ Alongside my academic journey, I've been an **active leader and community builde
 
 | Degree | Institution | Year | Result |
 |--------|------------|------|--------|
-| 🎓 **BS Software Engineering** | Sir Syed University of Engineering & Technology (SSUET), Karachi | 2021–2026 | **Department Topper ⭐ 3.8 CGPA** |
-| 📚 Intermediate — Pre-Engineering | Educators, Karachi | 2019–2021 | Distinction |
-| 🏫 Matriculation — Science | The Educators, Karachi | 2017–2019 | A+ |
+| 🎓 **BS Software Engineering** | Sir Syed University of Engineering & Technology (SSUET), Karachi | 2022–2026 | **Department Topper ⭐ 3.97 CGPA** |
+| 📚 Intermediate — Science General (Computer Science) | Govt. Degree Boys & Girls College SRE-III Majeed, Karachi | 2020–2022 | 81.18% |
+| 🏫 Matriculation — Science | The Educators, Karachi | 2018–2020 | 88.82% |
 
 ---
 
