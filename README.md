@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laibarafiq)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaibaRafique)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D78?style=for-the-badge&logo=firefox&logoColor=white)](https://LaibaRafique.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D78?style=for-the-badge&logo=firefox&logoColor=white)](https://laibarafique.github.io/LaibaRafiqPortfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibarafiq.work@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AB44?style=for-the-badge&logo=checkmarx&logoColor=white)](#-lets-connect)
 
@@ -171,7 +171,7 @@ Alongside my academic journey, I've been an **active leader and community builde
   <a href="mailto:laibarafiq.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/laibarafiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/LaibaRafique"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://LaibaRafique.dev"><img src="https://img.shields.io/badge/Portfolio-FF2D78?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://laibarafique.github.io/LaibaRafiqPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF2D78?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
