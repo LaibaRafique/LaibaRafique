@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
-Hi, I'm **Laiba Rafiq** — a **BS Software Engineering Graduate** from **SSUET, Karachi** *(Class of 2026 🎓)*, pivoting into **AI Engineering** with foundation in full-stack web development.
+Hi, I'm **Laiba Rafiq** — a **BS Software Engineering Graduate** from **SSUET, Karachi** *(Class of 2026 🎓)*, pivoting into **AI Engineering** with foundation in **Full-Stack Web Development**.
 
 I build scalable, production-ready web applications and I'm now channelling that engineering discipline into **AI/ML systems** — working with models, NLP pipelines, the GenAI and Agentic AI ecosystem to build software that thinks and acts.
 
