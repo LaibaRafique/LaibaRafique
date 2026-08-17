@@ -159,7 +159,7 @@ Alongside my academic journey, I've been an **active leader and community builde
 
 | Degree | Institution | Year | Result |
 |--------|------------|------|--------|
-| 🎓 **BS Software Engineering** | Sir Syed University of Engineering & Technology (SSUET), Karachi | 2022–2026 | **Department Topper ⭐ 3.97 CGPA** |
+| 🎓 **BS Software Engineering** | Sir Syed University of Engineering & Technology (SSUET), Karachi | 2022–2026 | **Department Topper ⭐ 3.96 CGPA** |
 | 📚 Intermediate — Science General (Computer Science) | Govt. Degree Boys & Girls College SRE-III Majeed, Karachi | 2020–2022 | 81.18% |
 | 🏫 Matriculation — Science | The Educators, Karachi | 2018–2020 | 88.82% |
 
